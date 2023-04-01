@@ -5,7 +5,7 @@ A sample REST API for Ecom site using Lambda and DynamoDB
 
 ```json
 {
-    "quantity": "120",
+    "address": "India",
     "imageURL": "https://example.com/image.png",
     "id": "1",
     "lastModified": "2023-04-01 03:32:13.889317",
